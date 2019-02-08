@@ -1,4 +1,4 @@
-# FakeHttpClient
+# FakeHttpClientHandler
 This is one of the way to fake http response
 
 If there is a need to mock external API response and improve code coverage with unit test, the below example shows how to achieve that,
